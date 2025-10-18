@@ -24,3 +24,5 @@ systemctl disable --now matrix-email2matrix.service
 
 rm -rf /matrix/email2matrix
 ```
+
+<!-- Auto-update: 2025-10-18T12:10:40.440083 -->
